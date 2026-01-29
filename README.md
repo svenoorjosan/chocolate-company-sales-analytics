@@ -8,7 +8,7 @@ This project covers data modeling (star schema), DAX measures (including time in
 
 ## Power BI Report
 - PBIX file: `ChocolateCompany_SalesAnalytics.pbix`
-- (Optional) Live report link (Power BI Service): https://app.powerbi.com/view?r=eyJrIjoiMTZlYjQ3OTUtMjk4OS00NjhmLWI2MDktYWQ1YWYyMzgxZmIwIiwidCI6IjhjZDM2MGMyLTA2OGItNGUzNi04ZGI1LTI3YjM1NzkyZjUzZiIsImMiOjZ9
+- Live report link (Power BI Service): https://app.powerbi.com/view?r=eyJrIjoiMTZlYjQ3OTUtMjk4OS00NjhmLWI2MDktYWQ1YWYyMzgxZmIwIiwidCI6IjhjZDM2MGMyLTA2OGItNGUzNi04ZGI1LTI3YjM1NzkyZjUzZiIsImMiOjZ9
 
 ## What’s included
 - KPI cards: Sales, Boxes, Shipments, Cost, Profit, Profit %
